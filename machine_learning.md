@@ -24,8 +24,8 @@ A k-means clustering analysis of 48,895 NYC Airbnb listings, identifying four be
 
 A convolutional neural network for handwritten digit recognition reaching 99.01% test accuracy. The work covers architectural reasoning (why filter count grows with depth, why 3×3 filters, why ReLU, why softmax with sparse categorical cross-entropy), and identifies a mild overfitting trend after epoch 5.
 
-- [Presentation (PDF)](./pdf/mnist-presentation.pdf)
-- [Transcript (PDF)](./pdf/mnist-essay-transcript.pdf)
+- [Presentation (PDF)](./mnist-presentation.pdf)
+- [Transcript (PDF)](./mnist-essay-transcript.pdf)
 - [Notebook (.ipynb)](./mnist-cnn.ipynb)
 
 ## Unit 6 vs Unit 11 — Methodological Evaluation
