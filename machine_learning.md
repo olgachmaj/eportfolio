@@ -11,7 +11,7 @@ The original submissions for this module were capped at 50% on resubmission foll
 
 ## Reflective Piece
 
-[Reflective piece (PDF)](./pdf/Reflective Piece - Machine Learning Module Resubmission.pdf) — 1000-word reflection on the resubmission process and module learning.
+[Reflective piece (PDF)](./pdf/reflection.pdf) — reflection on the resubmission process and module learning.
 
 ## Unit 6 — Airbnb Segmentation
 
