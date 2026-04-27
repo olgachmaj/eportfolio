@@ -12,7 +12,7 @@
 
 ### University of Essex Learning Experience
 
-*   [Module **Machine Learning**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Module **Machine Learning**](https://github.com/olgachmaj/eportfolio/blob/master/machine_learning.md)
 
 
 ---
