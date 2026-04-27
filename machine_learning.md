@@ -17,8 +17,8 @@ The original submissions for this module were capped at 50% on resubmission foll
 
 A k-means clustering analysis of 48,895 NYC Airbnb listings, identifying four behavioural host segments. The analysis defends a k=4 choice over the higher-silhouette k=3 because it isolates a small but strategically important commercial-operator segment, and adds a chi-square test with Cramér's V to separate statistical significance from effect size.
 
-- [Analytical report (PDF)](./pdf/airbnb-segmentation-report.pdf)
-- [Notebook (.ipynb)](./pdf/airbnb-segmentation.ipynb)
+- [Analytical report (PDF)](./airbnb-segmentation-report.pdf)
+- [Notebook (.ipynb)](./airbnb-segmentation.ipynb)
 
 ## Unit 11 — MNIST CNN
 
