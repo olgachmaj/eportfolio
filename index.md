@@ -12,8 +12,7 @@
 
 ### University of Essex Learning Experience
 
-*   [Module **Machine Learning**](https://github.com/olgachmaj/eportfolio/blob/master/machine_learning.md)
-
+*   [Module **Machine Learning**](./machine-learning.md)
 
 ---
 
