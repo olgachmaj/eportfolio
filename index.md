@@ -12,7 +12,7 @@
 
 ### University of Essex Learning Experience
 
-*   [Module **Machine Learning**](./machine-learning.md)
+*   [Module **Machine Learning**](./machine_learning.md)
 
 ---
 
