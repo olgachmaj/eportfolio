@@ -26,7 +26,7 @@ A convolutional neural network for handwritten digit recognition reaching 99.01%
 
 - [Presentation (PDF)](./pdf/mnist-presentation.pdf)
 - [Transcript (PDF)](./pdf/mnist-essay-transcript.pdf)
-- [Notebook (.ipynb)](./pdf/mnist-cnn.ipynb)
+- [Notebook (.ipynb)](./mnist-cnn.ipynb)
 
 ## Unit 6 vs Unit 11 — Methodological Evaluation
 
