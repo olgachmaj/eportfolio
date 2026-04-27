@@ -1,7 +1,4 @@
----
-layout: default
-title: Machine Learning Module
----
+
 
 # Machine Learning Module — E-Portfolio
 
